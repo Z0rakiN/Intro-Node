@@ -10,11 +10,17 @@
     "type": "git",
     "url": "git+https://github.com/Z0rakiN/Intro-Node.git"
   },
-  "keywords": ["NodejS", "Introdução"],
+  "keywords": [
+    "NodejS",
+    "Introdução"
+  ],
   "author": "Leonardo",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Z0rakiN/Intro-Node/issues"
   },
-  "homepage": "https://github.com/Z0rakiN/Intro-Node#readme"
+  "homepage": "https://github.com/Z0rakiN/Intro-Node#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
 }
